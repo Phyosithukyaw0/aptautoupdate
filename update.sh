@@ -1,5 +1,5 @@
 #!/bin/bash
-chmod +x aptautoupdate.sh
+chmod +x update.sh
 apt update -y
 apt upgrade -y
 apt autoremove -y
